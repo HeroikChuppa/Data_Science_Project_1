@@ -1,28 +1,28 @@
 # PROJECT-1. Анализ вакансий из HeadHunter
 
 ## Оглавление
- [1. Описание проекта](https://github.com/HeroikChuppa/Data_Science_Project_1/edit/master/PROJECT-1/README.md#Описание-проекта)
+ [1. Описание проекта](https://github.com/HeroikChuppa/Data_Science_Project_1/tree/master/PROJECT-1/README.md#Описание-проекта)
 
- [2. Какой кейс решаем?](https://github.com/HeroikChuppa/Data_Science_Project_1/edit/master/PROJECT-1/README.md#Какой-кейс-решаем)
+ [2. Какой кейс решаем?](https://github.com/HeroikChuppa/Data_Science_Project_1/tree/master/PROJECT-1/README.md#Какой-кейс-решаем)
 
- [3. Краткая информация о данных](https://github.com/HeroikChuppa/Data_Science_Project_1/edit/master/PROJECT-1/README.md#Краткая-информация-о-данных)
+ [3. Краткая информация о данных](https://github.com/HeroikChuppa/Data_Science_Project_1/tree/master/PROJECT-1/README.md#Краткая-информация-о-данных)
 
- [4. Этапы работы над проектом](https://github.com/HeroikChuppa/Data_Science_Project_1/edit/master/PROJECT-1/README.md#Этапы-работы-над-проектом)
+ [4. Этапы работы над проектом](https://github.com/HeroikChuppa/Data_Science_Project_1/tree/master/PROJECT-1/README.md#Этапы-работы-над-проектом)
 
- [5. Результаты](https://github.com/HeroikChuppa/Data_Science_Project_1/edit/master/PROJECT-1/README.md#Результаты)
+ [5. Результаты](https://github.com/HeroikChuppa/Data_Science_Project_1/tree/master/PROJECT-1/README.md#Результаты)
  
- [6. Выводы](https://github.com/HeroikChuppa/Data_Science_Project_1/edit/master/PROJECT-1/README.md#Выводы)
+ [6. Выводы](https://github.com/HeroikChuppa/Data_Science_Project_1/tree/master/PROJECT-1/README.md#Выводы)
 
 ### Описание пректа 
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить.
 
-:arrow_up:[ к оглавлению](https://github.com/HeroikChuppa/Data_Science_Project_1/edit/master/PROJECT-1/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/HeroikChuppa/Data_Science_Project_1/tree/master/PROJECT-1/README.md#Оглавление)
 
 ### Какой кейс решаем?
 
 Подготовть данные для принятия решения по соискателям для компании HeadHunter.
 
-:arrow_up:[ к оглавлению](https://github.com/HeroikChuppa/Data_Science_Project_1/edit/master/PROJECT-1/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/HeroikChuppa/Data_Science_Project_1/tree/master/PROJECT-1/README.md#Оглавление)
 
 
 ### Краткая информация о данных
@@ -33,13 +33,13 @@ https://drive.google.com/u/0/uc?id=1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn&export=down
 курсы валют: 
 https://lms.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/ExchangeRates.zip
 
-:arrow_up:[ к оглавлению](https://github.com/HeroikChuppa/Data_Science_Project_1/edit/master/PROJECT-1/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/HeroikChuppa/Data_Science_Project_1/tree/master/PROJECT-1/README.md#Оглавление)
 
 ### Этапы работы над проектом
 
 Разработка программы на основе пройденных курсов SkillFactory: DSPR-2.0 Профессия Data Science
 
-:arrow_up:[ к оглавлению](https://github.com/HeroikChuppa/Data_Science_Project_1/edit/master/PROJECT-1/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/HeroikChuppa/Data_Science_Project_1/tree/master/PROJECT-1/README.md#Оглавление)
 
 ### Результаты
 - Проведено исследования структуры данных.
@@ -51,7 +51,7 @@ https://lms.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c6
 - Проект загружен на GitHub.
 - GitHub оформлен соответствующим образом.
 
-:arrow_up:[ к оглавлению](https://github.com/HeroikChuppa/Data_Science_Project_1/edit/master/PROJECT-1/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/HeroikChuppa/Data_Science_Project_1/tree/master/PROJECT-1/README.md#Оглавление)
 
 ### Выводы:
 
